@@ -1,2 +1,2 @@
-# Project1
-Machine Learning python
+ML
+Machine Learning implementation using python
